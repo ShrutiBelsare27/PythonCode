@@ -13,6 +13,8 @@ if n!=0:
     for i in range(1,n+1):
         sum=sum+(1/i) # harmonic sum calculation
         print("value of 1/i"," is ",  1/i)
+        
     print("Harmonic sum is",sum)
+    
 else:
     print("Number should not equal to zero")
